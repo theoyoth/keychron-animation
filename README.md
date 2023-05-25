@@ -15,6 +15,22 @@ $ npm run dev
 
 ```
 
+```
+$PROJECT_ROOT
+│   
+├── public
+│   # images
+├── src
+│  |components
+|  |_ Loader.jsx
+|  |_ Navbar.jsx
+|  |App.jsx
+|  |App.css
+|  |index.css
+|  |main.jsx
+
+```
+
 ## Preview
 ### screenshot
 ![img preview](./public/prev.png "preview website")
